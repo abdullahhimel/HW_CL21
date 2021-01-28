@@ -1,0 +1,63 @@
+/* font-family: 'Lato', sans-serif; */
+
+/* font-family: 'Dosis', sans-serif; */
+
+/* font-family: 'Sniglet', cursive; */
+
+/* common start*/
+body{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+}
+/* comon end */
+
+/* header start */
+header{
+    background-color: #ffd338;
+}
+.menu ul li a{
+    font-size: 18px;
+    font-weight: 700;
+    color: white !important;
+    padding: 3px 20px !important;
+    border-radius: 15px;
+}
+.menu ul li a:hover{
+    background-color: #F05C5C;
+}
+.d_user{
+    
+}
+.d_user a{
+    color: white;
+}
+.d_user ul{
+    background-color: #ffd338;
+}
+.d_search{
+    
+}
+.d_search a{
+    color: white;
+}
+.d_search ul{
+    background-color: #ffd338;
+}
+/* background-color: #ffd338; */
+/* header end */
+
+.banner {
+    background-image: url(../Images/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ban_content h1 {
+    margin-top: 300px;
+    margin-bottom: 310px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #1ec0ff;
+}
